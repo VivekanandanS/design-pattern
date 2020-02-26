@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f86c32e1-f0d2-40bd-a633-48c6f366eb15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/images/maze-problem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sinewave/enums/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/problem/MapSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/problem/MazeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/problem/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Wall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/enums/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/enums/Direction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YLShD7mDYsM0HUMctkdGLmiApw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -49,5 +55,11 @@
       <updated>1582720498954</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="207" width="683" height="486" key="find.popup" timestamp="1582731569804">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="207" width="683" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1582731569804" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 package com.sinewave.enums;
 
-enum Direction {
+public enum Direction {
     NORTH,
     SOUTH,
     EAST,
