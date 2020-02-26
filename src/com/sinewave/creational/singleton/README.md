@@ -1,4 +1,4 @@
-## Singleton Patter
+## Singleton Pattern
 
 Singleton Pattern ensure only one instance of class is created in JVM. So, utlimately the singleton class will the only touch point to access the object of the class .
 
