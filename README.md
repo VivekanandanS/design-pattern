@@ -1,2 +1,2 @@
 # design-patterns
- Gang of 4 | Design Patter
+ Gang of 4 | Design Pattern
