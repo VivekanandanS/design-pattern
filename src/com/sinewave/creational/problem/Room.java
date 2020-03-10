@@ -24,7 +24,10 @@ public class Room implements MapSite {
     }
 
     public MapSite getSide(Direction direction) {
-        return null;
+        return sides.get(direction);
     }
 
+    public int getRoomNumber() {
+        return roomNumber;
+    }
 }

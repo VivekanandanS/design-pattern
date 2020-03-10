@@ -14,7 +14,7 @@ public class Maze {
         this.rooms.add(room);
     }
 
-    public void findRoom() {
-
+    public Room findRoom(int roomNo) {
+        return rooms.stream().filter(room -> room.getRoomNumber() == roomNo).findFirst().get();
     }
 }
