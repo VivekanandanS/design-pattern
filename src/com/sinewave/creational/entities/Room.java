@@ -1,5 +1,6 @@
-package com.sinewave.creational.problem;
+package com.sinewave.creational.entities;
 
+import com.sinewave.creational.entities.MapSite;
 import com.sinewave.enums.*;
 
 import java.util.HashMap;

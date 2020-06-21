@@ -1,9 +1,12 @@
 package com.sinewave.creational.problem;
 
+import com.sinewave.creational.entities.Door;
+import com.sinewave.creational.entities.Maze;
+import com.sinewave.creational.entities.Room;
+import com.sinewave.creational.entities.Wall;
 import com.sinewave.enums.Direction;
 
 public class MazeGame {
-
 
     public Maze createMaze() {
         Maze maze = new Maze();

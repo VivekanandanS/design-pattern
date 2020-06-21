@@ -1,16 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f86c32e1-f0d2-40bd-a633-48c6f366eb15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/EnchantedMazeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/MazeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/MazeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/SimpleMazeFactory.java" afterDir="false" />
+    <list default="true" id="f1902fd0-d855-4c49-97bc-a6fc2791133a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/BEHAVIOUR.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/observer/OBSERVER.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/anitpattern/AssignmentNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/anitpattern/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/anitpattern/ITypeChecking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/anitpattern/IVariableAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/anitpattern/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/anitpattern/VariableRefNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/solution/AssignmentCheckVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/solution/AssignmentNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/solution/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/solution/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/solution/TypeCheckingVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/solution/VariableRefNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/behaviour/visitor/solution/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/builder/MazeBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/builder/MazeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/builder/SimpleMazeBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/factorymethod/maze/AbstractMazeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/factorymethod/maze/DoorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/factorymethod/maze/MazeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/factorymethod/maze/RoomFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/factorymethod/maze/SimpleMazeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/factorymethod/maze/WallFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/factorymethod/prototype/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/factorymethod/prototype/MyProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/factorymethod/prototype/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/factorymethod/prototype/ProductCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/factorymethod/prototype/TheirProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/creational/factorymethod/prototype/YourProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/immutable/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sinewave/immutable/Immutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Door.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Maze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/EnchantedMazeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/EnchantedMazeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/MazeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/MazeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/MazeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/MazeGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/SimpleMazeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/abstractfactory/SimpleMazeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/entities/Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/problem/MapSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/entities/MapSite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/entities/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/problem/MazeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/problem/MazeGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/entities/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/problem/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/entities/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sinewave/creational/singleton/MultiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sinewave/creational/singleton/MultiThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +59,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -27,48 +67,117 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1YLShD7mDYsM0HUMctkdGLmiApw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="1Yy1zOo8UsyTsIG0yQ7A7Px8fcn" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/images" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources/images" />
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.sinewave.creational.factorymethod.maze" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Driver (1)">
+    <configuration name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sinewave.behaviour.visitor.solution.Driver" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sinewave.behaviour.visitor.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sinewave.behaviour.visitor.anitpattern.Driver" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sinewave.behaviour.visitor.anitpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Driver (1)" />
+        <item itemvalue="Application.Driver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f86c32e1-f0d2-40bd-a633-48c6f366eb15" name="Default Changelist" comment="" />
-      <created>1582720498954</created>
+      <changelist id="f1902fd0-d855-4c49-97bc-a6fc2791133a" name="Default Changelist" comment="" />
+      <created>1583900281990</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582720498954</updated>
+      <updated>1583900281990</updated>
+      <workItem from="1583900283545" duration="2730000" />
+      <workItem from="1583909908798" duration="5961000" />
+      <workItem from="1584255462729" duration="205000" />
+      <workItem from="1584418836136" duration="246000" />
+      <workItem from="1584457552496" duration="42000" />
+      <workItem from="1584621416899" duration="87000" />
+      <workItem from="1584771120553" duration="1130000" />
+      <workItem from="1589943486656" duration="1936000" />
+      <workItem from="1592720370288" duration="1699000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="571" y="-839" key="#com.intellij.ide.util.MemberChooser" timestamp="1583834423049">
-      <screen x="-202" y="-1080" width="1920" height="1080" />
+    <state x="1093" y="254" key="#com.intellij.ide.util.MemberChooser" timestamp="1592721774600">
+      <screen x="0" y="0" width="2560" height="1080" />
     </state>
-    <state x="571" y="-839" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-202.-1080.1920.1080@-202.-1080.1920.1080" timestamp="1583834423049" />
-    <state x="571" y="-821" key="#com.intellij.ide.util.MemberChooser/0.23.1440.798/-202.-1057.1920.1057@-202.-1057.1920.1057" timestamp="1583829297615" />
-    <state x="378" y="207" width="683" height="486" key="find.popup" timestamp="1582731569804">
+    <state x="1093" y="254" key="#com.intellij.ide.util.MemberChooser/2560.252.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1592721774599" />
+    <state width="2518" height="305" key="GridCell.Tab.0.bottom" timestamp="1592721847821">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="305" key="GridCell.Tab.0.bottom/2560.252.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1592721847821" />
+    <state width="2518" height="305" key="GridCell.Tab.0.center" timestamp="1592721847820">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="305" key="GridCell.Tab.0.center/2560.252.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1592721847820" />
+    <state width="2518" height="305" key="GridCell.Tab.0.left" timestamp="1592721847819">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="305" key="GridCell.Tab.0.left/2560.252.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1592721847819" />
+    <state width="2518" height="305" key="GridCell.Tab.0.right" timestamp="1592721847820">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="305" key="GridCell.Tab.0.right/2560.252.1440.900/0.0.2560.1080@0.0.2560.1080" timestamp="1592721847820" />
+    <state x="397" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1584621507293">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="378" y="207" width="683" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1582731569804" />
-    <state x="423" y="-878" width="670" height="676" key="search.everywhere.popup" timestamp="1583828997451">
-      <screen x="-202" y="-1057" width="1920" height="1057" />
+    <state x="397" y="255" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584621507293" />
+    <state x="378" y="85" width="683" height="729" key="find.popup" timestamp="1584255523402">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="423" y="-878" width="670" height="676" key="search.everywhere.popup/0.23.1440.798/-202.-1057.1920.1057@-202.-1057.1920.1057" timestamp="1583828997451" />
+    <state x="378" y="85" width="683" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1584255523402" />
   </component>
 </project>

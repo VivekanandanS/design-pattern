@@ -1,4 +1,4 @@
-package com.sinewave.creational.problem;
+package com.sinewave.creational.entities;
 
 import java.util.ArrayList;
 
